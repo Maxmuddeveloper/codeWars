@@ -14,8 +14,8 @@
 function highAndLow(numbers){
   // ...
   numbers == numbers
-  let min = Math.min( ...arr )
-  let max = Math.min( ...arr )
+  let min = Math.min( ...number )
+  let max = Math.min( ...number )
   console.log(min , max )
 }
 
