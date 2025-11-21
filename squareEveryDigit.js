@@ -19,3 +19,4 @@ const  squareDigits= (num) => {
     )
 }
 squareDigits(765)
+
